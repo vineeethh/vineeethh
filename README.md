@@ -1,16 +1,30 @@
-## Hi there 👋
+# Vuppala Vineeth
 
-<!--
-**vineeethh/vineeethh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. Artificial Intelligence & Data Science, Chaitanya Bharathi Institute of Technology (Expected 2027) · AI/ML Intern at Deloitte, Tax Technology Consulting
 
-Here are some ideas to get you started:
+I build Python-based data systems and layer Generative AI on top of them — ingestion pipelines, REST APIs and databases on one side; RAG, embeddings, vector search and agentic workflows on the other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**National 2nd Prize, Deloitte Hacksplosion 2026** (2nd of 22,000+ applicants) · Finalist, Smart India Hackathon
+
+---
+
+### What I work with
+
+`Python` `SQL` `FastAPI` `Flask` `PostgreSQL` `MongoDB` `Qdrant`
+`LangChain` `LangGraph` `RAG` `Embeddings` `Vector Search`
+`Scikit-learn` `PyTorch` `XGBoost`
+
+---
+
+### Projects
+
+- **[Legal.ai](https://github.com/vineeethh/Legal.ai)** — Multi-agent supervisor-worker system in LangGraph that decomposes documents into structured, queryable components; served via FastAPI over PostgreSQL with a confidence-threshold validation layer routing low-confidence output to human review.
+- **[MediScan](https://github.com/vineeethh/MediScan)** — RAG retrieval microservice combining LangChain, BioBERT embeddings and BM25 over a Qdrant vector index, converting unstructured PDF reports into grounded, source-traceable answers.
+- **[RAG Guard](https://github.com/vineeethh/RAG-Guard)** — Two-layer guardrail pipeline and evaluation harness testing LLM inputs against adversarial, noisy and obfuscated cases.
+- **[Credit Card Churn Prediction](https://github.com/vineeethh/credit-card-churn)** — End-to-end classification pipeline with SQL-driven cleaning, feature engineering and 5-fold cross-validation.
+
+---
+
+### Reach me
+
+[LinkedIn](https://linkedin.com/in/vuppalavineeth) · vvuppala24@gmail.com
